@@ -1,2 +1,2 @@
-# image-gallery
+# Image Gallery
 Image slideshow
